@@ -24,7 +24,7 @@
 
 > Screenshots :-
 
-<img src="./ss2.png">
-<img src="./ss3.png">
-<img src="./ss4.png">
+<img src="./ss2.PNG">
+<img src="./ss3.PNG">
+<img src="./ss4.PNG">
 
