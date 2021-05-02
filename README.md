@@ -21,3 +21,9 @@
 - Run react app in client `yarn start`
 - Run node server `npm run dev`
 - Explore CRUD operations
+
+> Screenshots :-
+
+<img src="ss2.png">
+<img src="ss3.png">
+<img src="ss4.png">
