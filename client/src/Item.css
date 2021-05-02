@@ -1,0 +1,52 @@
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(115, 143, 194);
+    border-radius: 20px;
+    padding: 10px;
+    width: 500px;
+}
+
+.delete{
+    padding: 10px;
+  border-radius: 20px;
+  background-color: red;
+  color: whitesmoke;
+  font-weight: 500;
+  width: 100px;
+  cursor: pointer;
+}
+
+.lower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.updateField{
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-grow: 1;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    outline: none;
+    text-align: center;
+}
+
+.update{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: black;
+    color: whitesmoke;
+    font-weight: 500;
+    width: 100px;
+    cursor: pointer;
+}

@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form > input{
+  width: 300px;
+  padding: 10px;
+  border-radius: 20px;
+  outline: none;
+  text-align: center;
+}
+
+.form > label{
+  font-weight: 900;
+  font-size: large;
+  margin-top: 20px;
+}
+
+.form > button {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: black;
+  color: whitesmoke;
+  font-weight: 500;
+  width: 200px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.form > button:hover {
+  background-color: whitesmoke;
+  color: black;
+}
